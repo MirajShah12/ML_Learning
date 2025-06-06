@@ -27,7 +27,8 @@
 - Created reusable functions to generate performance tables and visualize the impact of different hyperparameter configurations.
 
 ## Reflection
-- This project helped reinforce an understanding of regression modeling, feature engineering, and tuning best practices.
-- Learned how **model simplicity vs. performance** is a critical trade-off in machine learning.
-- Practiced **interpreting R² and adjusted R²**, identifying signs of overfitting, and justifying feature inclusion or removal.
-
+- After getting used to the sklearn, I found it was the same process each time of cleaning the data (preprocessing) then creating the model
+- Monitoring the model was fun using the plots and graphs charts to see if it is being random and such
+- It is interesting to see the idea of simplicity vs total accuracy since we want to be able to see how to change the values we use 
+- Overfitting was the biggest concept for me to grasp since I do realize there is a significant difference between seeing the relation of something working on a subset of the sample
+- Using stratified sampling is very interesting too since that allowed me to avoid overfitting a lot more
