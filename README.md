@@ -2,7 +2,7 @@
 
 - Learned and implemented models including `LinearRegression` and `RandomForestRegressor()` using scikit-learn.
 - Tested these models on the **diabetes dataset** from `sklearn.datasets`, a well-known regression challenge.
-- Achieved an R² of approximately **0.51 with Linear Regression** and **0.49 with Random Forest**, using well-tuned configurations.
+- Achieved an R2 of approximately **0.51 with Linear Regression** and **0.49 with Random Forest**, using well-tuned configurations.
 - Explored various **model evaluation techniques**, including **scatter plots of actual vs. predicted values** to visually assess overfitting and underfitting.
 - Built visualizations using `matplotlib` and `seaborn` to assess model quality.
   
